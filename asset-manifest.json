@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AirbnbClone-main/static/css/main.3a0921bc.chunk.css",
+    "main.js": "/AirbnbClone-main/static/js/main.df704c7f.chunk.js",
+    "main.js.map": "/AirbnbClone-main/static/js/main.df704c7f.chunk.js.map",
+    "runtime-main.js": "/AirbnbClone-main/static/js/runtime-main.d34a8752.js",
+    "runtime-main.js.map": "/AirbnbClone-main/static/js/runtime-main.d34a8752.js.map",
+    "static/css/2.a1840750.chunk.css": "/AirbnbClone-main/static/css/2.a1840750.chunk.css",
+    "static/js/2.63fbc3eb.chunk.js": "/AirbnbClone-main/static/js/2.63fbc3eb.chunk.js",
+    "static/js/2.63fbc3eb.chunk.js.map": "/AirbnbClone-main/static/js/2.63fbc3eb.chunk.js.map",
+    "index.html": "/AirbnbClone-main/index.html",
+    "precache-manifest.c358f72443266f82227f3f5542c0c753.js": "/AirbnbClone-main/precache-manifest.c358f72443266f82227f3f5542c0c753.js",
+    "service-worker.js": "/AirbnbClone-main/service-worker.js",
+    "static/css/2.a1840750.chunk.css.map": "/AirbnbClone-main/static/css/2.a1840750.chunk.css.map",
+    "static/css/main.3a0921bc.chunk.css.map": "/AirbnbClone-main/static/css/main.3a0921bc.chunk.css.map",
+    "static/js/2.63fbc3eb.chunk.js.LICENSE.txt": "/AirbnbClone-main/static/js/2.63fbc3eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d34a8752.js",
+    "static/css/2.a1840750.chunk.css",
+    "static/js/2.63fbc3eb.chunk.js",
+    "static/css/main.3a0921bc.chunk.css",
+    "static/js/main.df704c7f.chunk.js"
+  ]
+}
