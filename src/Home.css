@@ -1,0 +1,8 @@
+.home_section{
+    display: grid !important;
+    padding: 30px;
+    grid-auto-flow: column !important;
+    overflow: auto hidden !important;
+    scroll-snap-type: x mandatory !important;
+    gap: 12px !important;
+}
