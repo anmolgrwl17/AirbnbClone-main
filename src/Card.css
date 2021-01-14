@@ -16,7 +16,7 @@
 
 .card > img {
     object-fit: cover;
-    max-width: 300px;
+    max-width: 100px;
     min-height: -webkit-fill-available;
     border-radius: 10px;
     
