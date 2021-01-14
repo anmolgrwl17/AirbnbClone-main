@@ -8,6 +8,7 @@
     grid-auto-flow: column !important;
     scroll-snap-type: x mandatory !important;
     gap: 12px !important;
+    max-height: fit-content;
 }
 
 .card:hover{
@@ -16,7 +17,7 @@
 
 .card > img {
     object-fit: cover;
-    max-width: 100px;
+    max-width: 300px;
     min-height: -webkit-fill-available;
     border-radius: 10px;
     
