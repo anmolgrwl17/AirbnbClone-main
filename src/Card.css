@@ -15,10 +15,10 @@
 }
 
 .card > img {
-    object-fit: fill;
+    object-fit: cover;
     min-width: 300px;
     min-height: -webkit-fill-available;
-    width: 100% !important;
+    width: 100px !important;
     border-radius: 10px;
     
 }
