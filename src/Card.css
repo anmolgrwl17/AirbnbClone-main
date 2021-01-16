@@ -8,7 +8,7 @@
     grid-auto-flow: column !important;
     scroll-snap-type: x mandatory !important;
     gap: 12px !important;
-    max-height: fit-content;
+    /*max-height: fit-content;*/
 }
 
 .card:hover{
