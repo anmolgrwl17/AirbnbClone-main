@@ -25,9 +25,8 @@
 @media (min-width:320px)  {
     .card > img {
         object-fit: cover;
-        max-width: 300px;
-        max-height: 100px;
-        min-height: -webkit-fill-available;
+        width: 200px;
+        height: 200px;
         border-radius: 10px;
     }
 }
